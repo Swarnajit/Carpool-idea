@@ -1,0 +1,11 @@
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+
+eqfeed_callback({"type":"FeatureCollection","features":[{"type":"Feature","properties":{"mag":5.7,"place":"35km ESE of Ndoi Island, Fiji","time":1348175020,"tz":-720,"url":"http://earthquake.usgs.gov/earthquakes/eventpage/usc000csw5","felt":0,"cdi":1,"mmi":2,"alert":"green","status":"REVIEWED","tsunami":null,"sig":"500","net":"us","code":"c000csw5","ids":",usc000csw5,","sources":",us,","types":",dyfi,eq-location-map,geoserve,historical-moment-tensor-map,historical-seismicity-map,losspager,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,shakemap,tectonic-summary,"},"geometry":{"type":"Point","coordinates":[88.40322730000003,22.5133251,544.19]},"id":"usc000csw5"},
+{"type":"Feature","properties":{"mag":3.8,"place":"43km NNE of Talkeetna, Alaska","time":1348174056,"tz":-480,"url":"http://earthquake.usgs.gov/earthquakes/eventpage/ak10562838","felt":0,"cdi":1,"mmi":null,"alert":null,"status":"REVIEWED","tsunami":"1","sig":"222","net":"ak","code":"10562838","ids":",ak10562838,at00mao1rc,","sources":",ak,at,","types":",dyfi,general-link,geoserve,impact-link,nearby-cities,origin,tectonic-summary,"},"geometry":{"type":"Point","coordinates":[88.39762100000007,22.53997,10.1]},"id":"ak10562838"},
+{"type":"Feature","properties":{"mag":3.4,"place":"46km ESE of Yunaska Island, Alaska","time":1348171278,"tz":-660,"url":"http://earthquake.usgs.gov/earthquakes/eventpage/ak10562822","felt":null,"cdi":null,"mmi":null,"alert":null,"status":"REVIEWED","tsunami":null,"sig":"178","net":"ak","code":"10562822","ids":",ak10562822,","sources":",ak,","types":",general-link,geoserve,nearby-cities,origin,tectonic-summary,"},"geometry":{"type":"Point","coordinates":[88.43784099999993,22.580341,127.2]},"id":"ak10562822"},
+{"type":"Feature","properties":{"status":"REVIEWED","sig":"369","net":"us","code":"c000csng","ids":",usc000csng,","sources":",us,","types":",dyfi,eq-location-map,general-link,geoserve,historical-moment-tensor-map,historical-seismicity-map,nearby-cities,origin,p-wave-travel-times,phase-data,scitech-link,tectonic-summary,"},"geometry":{"type":"Point","coordinates":[88.36760989999993,22.5027253,120.46]},"id":"usc000csng"}]});
