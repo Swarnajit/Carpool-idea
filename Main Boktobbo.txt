@@ -1,0 +1,8 @@
+Initial proposal draft.
+
+1. We are going to make around 200 locations as "pick up" and "drop off" point.
+2. A commuter puts his origin and destination and app/site will show the points that mentioned car is covering.
+3. For a commuter and driver deal transparency pay by cash seems best as of now, or we can put a button for both; the ride starts when the both agree by clicking it.
+4. Haven't thought much about women safety.
+
+Update this file on any change, update or modification.
